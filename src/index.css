@@ -1,0 +1,11 @@
+:root{
+  /* Main colors */
+  --primary-color: #0c68f4;
+  --secondary-color: #F45E0C;
+   /* Neutral colors */
+   --neutral-1: #0c0c0c;
+   --neutral-2: #fff;
+   /* Status colors */
+   --error-color: #C91433;
+   --success-color:  #198754;
+} 
