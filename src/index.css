@@ -8,9 +8,11 @@
   /* Status colors */
   --error-color: #C91433;
   --success-color:  #198754;
-
   /* Box shadows */
   --shadow-1: -2px 2px 15px -1px #7171711F; 
   --shadow-2: -2px 2px 20px -1px #71717133;
   --shadow-3: -2px 2px 10px -1px #71717126;
-}   
+  /* Box radiuses */
+  --radius-1: 4px;
+  --radius-2: 8px;
+}    
