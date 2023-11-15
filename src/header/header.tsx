@@ -1,7 +1,7 @@
-import './TopSection.css'
+import './header.css'
 import '../index.css'
 
-function TopSection() {
+function Header() {
   return (
     <>
       <header>
@@ -24,4 +24,4 @@ function TopSection() {
   )
 }
 
-export default TopSection
+export default Header

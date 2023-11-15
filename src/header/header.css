@@ -8,7 +8,7 @@
 }
 
 .menu-btn{
-    background: url(../assets/menu.svg);
+    background: url(../assets/nav/menu.svg);
 }
 
 .top-right{
@@ -18,11 +18,11 @@
 }
 
 .busket{
-    background: url(../assets/busket.svg);
+    background: url(../assets/nav/busket.svg);
 }
 
 .user{
-    background: url(../assets/user.svg);
+    background: url(../assets/nav/user.svg);
 }
 
 .search-box{
@@ -44,7 +44,7 @@
 }
 
 .search-btn{
-    background: url(../assets/search.svg);
+    background: url(../assets/nav/search.svg);
 }
 
 

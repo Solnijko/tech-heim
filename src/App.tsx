@@ -1,10 +1,10 @@
 import './App.css'
-import TopSection from './section-top/TopSection.tsx'
+import Header from './header/header.tsx'
 
 function App() {
   return (
     <>
-      <TopSection></TopSection>
+      <Header />
     </>
   )
 }
