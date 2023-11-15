@@ -1,0 +1,55 @@
+.nav-top{
+    margin-bottom: 12px;
+    display: flex;
+    padding: 8px 4px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+}
+
+.menu-btn{
+    background: url(../assets/menu.svg);
+}
+
+.top-right{
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.busket{
+    background: url(../assets/busket.svg);
+}
+
+.user{
+    background: url(../assets/user.svg);
+}
+
+.search-box{
+    display: flex;
+    height: 40px;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+    background: #EDEDED;
+}
+
+.search{
+    color: var(#717171);
+    /* Mobile/Body-sm */
+    font-size: 12px;
+    font-weight: 300;
+    width: 100%;
+}
+
+.search-btn{
+    background: url(../assets/search.svg);
+}
+
+
+
+
+
+
+
