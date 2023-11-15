@@ -22,6 +22,8 @@
 *{
   box-sizing: border-box;
   font-family: 'Inter';
+  padding: 0;
+  margin: 0;
 }
 
 a{
@@ -49,11 +51,25 @@ input{
   font-weight: 400;
 }
 
+.button{
+  padding: 13px 10px;
+  border-radius: 4.4px;
+}
+
+.orange-button{
+  color: #fff;
+  background: #F45E0C;
+}
+
 @media screen and (min-width: 360px) {
 
   body{
     padding-left: 24px;
     padding-right: 24px;
+  }
+
+  section{
+    margin-top: 24px;
   }
   
 }  
