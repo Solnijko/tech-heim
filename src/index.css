@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
 :root{
   /* Main colors */
   --primary-color: #0c68f4;
@@ -17,6 +19,46 @@
   --radius-2: 8px;
 }
 
-body{
-  font-family: 'Inter', sans-serif;
+*{
+  box-sizing: border-box;
+  font-family: 'Inter';
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+}
+
+button{
+  background: none;
+  border: none;
+}
+
+input{
+  border: none;
+  background: none;
+}
+
+.icon{
+  height: 24px;
+  width: 24px;
+}
+
+.mainpage-link{
+  color:var(--primary-color);
+  font-weight: 400;
+}
+
+@media screen and (min-width: 360px) {
+
+  body{
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
+}  
+
+@media screen and (min-width: 1440px){
+  
+
 }
