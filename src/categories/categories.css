@@ -1,0 +1,33 @@
+.section-categories{
+    
+}
+
+.category-link{
+    display: flex;
+    max-width: 82px; 
+    height: 100px;
+    padding: 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content:end;
+    text-align: center;
+    gap: 4px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    box-shadow: -2px 2px 15px -1px rgba(113, 113, 113, 0.12);
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.category-photo{
+    height: 66px;
+    width: 65px;
+}
+
+.laptop{
+    margin-top: 20px;
+    margin-bottom: 8px;
+    width: 66px;
+    height: auto;
+}
