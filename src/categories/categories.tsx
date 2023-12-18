@@ -1,34 +1,3 @@
-// import './categories.css'
-// import '../index.css'
-
-
-// const Categories: React.FC = () => {  
-//   return (
-//     <>
-//       <section className="section-categories">
-//         <a href="#" className="category-link">
-//           <img src="src\assets\categories\accessories.png" className="category-photo" />
-//           <p className="category-description">Accessories</p>
-//         </a>
-//         <a href="#" className="category-link">
-//           <img src="src\assets\categories\camera.png" className="category-photo camera" />
-//           <p className="category-description">Camera</p>
-//         </a>
-//         <a href="#" className="category-link">
-//           <img src="src\assets\categories\laptop.png" className="category-photo laptop" />
-//           <p className="category-description">Laptop</p>
-//         </a>
-//         <a href="#" className="category-link">
-//           <img src="src\assets\categories\smartphone.png" className="category-photo" />
-//           <p className="category-description">Smartphone</p>
-//         </a>
-//       </section>
-//     </>
-//   )
-// }
-
-// export default Categories
-
 import React from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
